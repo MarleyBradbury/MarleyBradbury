@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarleyBradbury
+- 👀 I’m interested in software engineering particularly relating to the civil field and astrodynamics
+- 🌱 I’m currently learning Civil Environmental and Geomatic Engineering at University College London
+- 💞️ I’m looking to collaborate on projects relating to spacial prediction of objects in VLEO orbits
+- 📫 How to reach me: My email adress is marley.bradbury.19@ucl.ac.uk
